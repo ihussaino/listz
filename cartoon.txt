@@ -1,6 +1,15 @@
 <item>
 <title>101 Dalmatian 1</title>
 <link>http://www.ihussain.net/video/101%20Dalmatian%201/101%20Dalmatian%201%20-%20Arabic%20HQ%20-%20by%20Arabicgate-team.avi</link>
-<thumbnail>http://files.dardarkom.com/anime2/101-Dalmatian-1-DVDRip-Arabic/101-Dalmatian-1-DVDRip-Arabic.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-E40c4RdjijQ/UlCVNAKbe-I/AAAAAAAAAbA/f1JsP1XR-O0/s1600/101+Dalmatians+HD+Wallpapers+1.jpg</fanart>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/101-Dalmatian-1-DVDRip-Arabic.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/101%20Dalmatians%20HD%20Wallpapers%201.jpg</fanart>
 </item>
+
+<item>
+<title>101 Dalmatian 2</title>
+<link>http://ihussain.net/video/101%20Dalmatian%202/101%20Dalmatian%202%20-%20Arabic%20DVD%20-%20by%20DrAli.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/fe082cb7fe33b9b88a9152500b7a47bb8f537662.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/101-dalmatians-ii-patchs-london-adventure-522b9b91c893c.jpg</fanart>
+</item>
+
+
