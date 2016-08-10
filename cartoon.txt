@@ -166,4 +166,46 @@
 <fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Chicken-Little-wallpaper.jpg</fanart>
 </item>
 
+<item>
+<title>Dinosaur</title>
+<link>http://ihussain.net/video/Dinosaur/Dinosaur%20-%20Arabic%20DVD%20-%20Dr.Ali.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/dinosaur-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/dinosaur-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Flushed Away</title>
+<link>http://ihussain.net/video/Flushed%20Away/Flushed%20Away%202006%20DVDRIP%20Arabic.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/flushed_awayposter.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/flushed-away-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Goofy</title>
+<link>http://ihussain.net/video/Goofy/An%20Extremely%20Goofy%20Movie(Arabic)%20-%20DVDQ.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Goofy-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Goofy-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Hammer Boy</title>
+<link>http://ihussain.net/video/HAMMER%20BOY-%20by%20alsaher1/HAMMER%20BOY.rmvb</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/HAMMER%20BOY.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/HAMMER%20BOY.jpg</fanart>
+</item>
+
+<item>
+<title>Happily N'Ever After</title>
+<link>http://ihussain.net/video/Happily%20N'Ever%20After/Happily.N'ever.After%5b2007%5dDvDrip%5bArabicDub%5d-George-www.dvd4arab.com.rmvb</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/HappilyN%27EverAfter-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/HappilyN%27EverAfter-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Hercules</title>
+<link>http://ihussain.net/video/Hercules/Hercules%20-%20Arabic%20DVD-Q%20-%20Shane54.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Hercules-poster-big.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Hercules-wallpaper.jpg</fanart>
+</item>
+
 
