@@ -12,4 +12,32 @@
 <fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/101-dalmatians-ii-patchs-london-adventure-522b9b91c893c.jpg</fanart>
 </item>
 
+<item>
+<title>A Bug's Life</title>
+<link>http://ihussain.net/video/A%20Bug's%20Life/Hayat%20Hachara%20(A%20Bug's%20Life)%20-%20Arabic-French.DVD%20-%20Shane54.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/A-Bugs-Life-Movie-Poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/bugslifewallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Aladdin 1</title>
+<link>http://ihussain.net/video/Aladdin%201/Aladdin%201%20-%20Arabic.HQ%20-%20By%20Punisher.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/aladdin1poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/aladdin1wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Aladdin 2</title>
+<link>http://ihussain.net/video/Aladdin%202/Aladdin%202%20-%20Return%20Of%20Jaffar%20-%20Arabic%20HQ%20-%20Arabicgate.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/aladdin2poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/aladdin2wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Aladdin 3</title>
+<link>http://ihussain.net/video/Aladdin%203/Aladdin%203%20-%20Malik%20Losos%20-%20Arabic%20-%20Shane54.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/aladdin3poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/aladdin3wallpaper.jpg</fanart>
+</item>
+
 
