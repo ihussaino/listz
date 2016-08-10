@@ -61,4 +61,32 @@
 <fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Asterixwallpaper.jpg</fanart>
 </item>
 
+<item>
+<title>Atlantis I</title>
+<link>http://ihussain.net/video/Atlantis%20I/Atlantis%20I%20-%20Arabic%20DVD-Q%20-%20by%20Shane54.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/AtlantisIposter.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/AtlantisIwallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Atlantis II</title>
+<link>http://ihussain.net/video/Atlantis%20II/Atlantis%20II,%20Milo's%20Return%20-%20Arabic.DVD%20-%20by%20Dr.Ali.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/AtlantisIIposter.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/AtlantisIIwallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Bee Movie</title>
+<link>http://ihussain.net/video/BEE.DoOoBy/Bee.Movie.DVDrip.Arabic.surprized.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/beeposter.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/beewallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>BUZZ Lightyear</title>
+<link>http://ihussain.net/video/BUZZ%20Lightyear/Buzz%20Yatir%20(Buzz%20Light%20Year)%20-%20Arabic%20DVD%20-%20by%20SCArFACE2002.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/BUZZLightyearposter.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/BUZZLightyearwallpaper.jpg</fanart>
+</item>
+
 
