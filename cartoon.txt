@@ -40,4 +40,25 @@
 <fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/aladdin3wallpaper.jpg</fanart>
 </item>
 
+<item>
+<title>Alice In Wonderland</title>
+<link>http://ihussain.net/video/Alice%20In%20Wonderland/Arabic%20Alice%20In%20wonderland%20By%20AGT%20.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Alice_in_Wonderland_-_Poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/AliceInWonderlandwallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Anastasia</title>
+<link>http://ihussain.net/video/Anastasia/Anastasia.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Anastasiaposter.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Anastasiawallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Asterix</title>
+<link>http://ihussain.net/video/Asterix/Asterix.And.The.Vikings.By.MasTer.OF.DraGonZ.rmvb</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Asterixposter.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Asterixwallpaper.jpg</fanart>
+</item>
+
 
