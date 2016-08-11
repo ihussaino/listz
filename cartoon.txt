@@ -250,3 +250,44 @@
 <fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Lilo-Stitch-2-wallpaper.jpg</fanart>
 </item>
 
+<item>
+<title>Kronk's New Groove</title>
+<link>http://ihussain.net/video/Kronk's%20New%20Groove/Kronk's%20New%20Groove.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Kronks-New-Groove-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Kronks-New-Groove-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Madagascar</title>
+<link>http://ihussain.net/video/Madagascar/Madagascar.DVDRip.XviD-Arabic.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Madagascar-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Madagascar-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Meet The Robinsons</title>
+<link>http://ihussain.net/video/Meet%20The%20Robinsons/Meet%20The%20Robinsons%20-%20Arabic.DVD%20-%20Shane54.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/meet_the_robinsons-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/meet_the_robinsons-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Mickey.Donald.Goofy</title>
+<link>http://ihussain.net/video/Mickey.Donald.Goofy/Mickey.Donald.Goofy%20The%20Three%20Musketeers.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Mickey-Donald-Goofy-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/Mickey-Donald-Goofy-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Monster House</title>
+<link>http://ihussain.net/video/Monster.House.DvDrip.%5bARB%5d-Al7awye/monster%20house.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/monster-house-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/monster-house-wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Monsters Inc</title>
+<link>http://ihussain.net/video/Monsters%20%20inc/Monsters,%20Inc%20-%20Arabic.DVD.avi</link>
+<thumbnail>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/monsters-inc-poster.jpg</thumbnail>
+<fanart>https://1a8b8189fd0e3d468af9d6a9b826c819f5f6912b.googledrive.com/host/0B6NGwSnBxC3GWWxWZjVLY0dicm8/monsters-inc-wallpaper.jpg</fanart>
+</item>
